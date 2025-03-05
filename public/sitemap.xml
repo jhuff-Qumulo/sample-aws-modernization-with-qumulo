@@ -2,39 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/1_moduleone/11_foreword.html</loc>
+    <loc>//localhost:1313/4_gui/41_dashboard.html</loc>
   </url><url>
-    <loc>//localhost:1313/1_moduleone.html</loc>
+    <loc>//localhost:1313/6_cdf/61_portal.html</loc>
   </url><url>
-    <loc>//localhost:1313/3_modulethree/31_partnersetup.html</loc>
+    <loc>//localhost:1313/7_hadr/71_snapshot.html</loc>
+  </url><url>
+    <loc>//localhost:1313/1_introduction.html</loc>
+  </url><url>
+    <loc>//localhost:1313/3_deploying/31_prerequesites.html</loc>
   </url><url>
     <loc>//localhost:1313/</loc>
   </url><url>
-    <loc>//localhost:1313/2_moduletwo_setup/21_awsaccountsetup.html</loc>
+    <loc>//localhost:1313/2_architecture/21_runanywhere.html</loc>
   </url><url>
-    <loc>//localhost:1313/2_moduletwo_setup/21_awsworkshopstudio.html</loc>
+    <loc>//localhost:1313/5_scalability/51_scale-out.html</loc>
   </url><url>
-    <loc>//localhost:1313/2_moduletwo_setup/22_createaworkspace.html</loc>
+    <loc>//localhost:1313/4_gui/42_analytics.html</loc>
   </url><url>
-    <loc>//localhost:1313/2_moduletwo_setup.html</loc>
+    <loc>//localhost:1313/5_scalability/52_scale-in.html</loc>
   </url><url>
-    <loc>//localhost:1313/1_moduleone/12_technicalissue_problem.html</loc>
+    <loc>//localhost:1313/6_cdf/62_cdf.html</loc>
   </url><url>
-    <loc>//localhost:1313/2_moduletwo_setup/23_createaniamroleforyourworkspace.html</loc>
+    <loc>//localhost:1313/7_hadr/72_replication.html</loc>
   </url><url>
-    <loc>//localhost:1313/3_modulethree.html</loc>
+    <loc>//localhost:1313/3_deploying/32_client.html</loc>
   </url><url>
-    <loc>//localhost:1313/1_moduleone/13_whoweare.html</loc>
+    <loc>//localhost:1313/2_architecture/22_cnq.html</loc>
   </url><url>
-    <loc>//localhost:1313/2_moduletwo_setup/24_attachiamrole.html</loc>
+    <loc>//localhost:1313/2_architecture.html</loc>
   </url><url>
-    <loc>//localhost:1313/4_modulefour.html</loc>
+    <loc>//localhost:1313/2_architecture/23_cdf.html</loc>
   </url><url>
-    <loc>//localhost:1313/1_moduleone/14_workshopprerequisites.html</loc>
+    <loc>//localhost:1313/4_gui/43_sharing.html</loc>
   </url><url>
-    <loc>//localhost:1313/2_moduletwo_setup/25_configureworkshopspecificrequirements.html</loc>
+    <loc>//localhost:1313/5_scalability/53_scale-up.html</loc>
   </url><url>
-    <loc>//localhost:1313/1_moduleone/15_nextsteps.html</loc>
+    <loc>//localhost:1313/3_deploying.html</loc>
+  </url><url>
+    <loc>//localhost:1313/3_deploying/33_storage.html</loc>
+  </url><url>
+    <loc>//localhost:1313/4_gui/44_cluster.html</loc>
+  </url><url>
+    <loc>//localhost:1313/5_scalability/54_scale-down.html</loc>
+  </url><url>
+    <loc>//localhost:1313/4_gui.html</loc>
+  </url><url>
+    <loc>//localhost:1313/6_cdf.html</loc>
+  </url><url>
+    <loc>//localhost:1313/7_hadr.html</loc>
+  </url><url>
+    <loc>//localhost:1313/5_scalability.html</loc>
+  </url><url>
+    <loc>//localhost:1313/3_deploying/34_compute.html</loc>
+  </url><url>
+    <loc>//localhost:1313/4_gui/45_apitools.html</loc>
+  </url><url>
+    <loc>//localhost:1313/4_gui/46_nexus.html</loc>
+  </url><url>
+    <loc>//localhost:1313/4_gui/47_openmetrics.html</loc>
   </url><url>
     <loc>//localhost:1313/getting-started.html</loc>
   </url><url>

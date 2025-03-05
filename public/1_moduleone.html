@@ -12,18 +12,18 @@
     <title>Introduction :: English</title>
 
     
-    <link href="/css/nucleus.css?1741190645" rel="stylesheet">
-    <link href="/css/fontawesome-all.min.css?1741190645" rel="stylesheet">
-    <link href="/css/hybrid.css?1741190645" rel="stylesheet">
-    <link href="/css/featherlight.min.css?1741190645" rel="stylesheet">
-    <link href="/css/perfect-scrollbar.min.css?1741190645" rel="stylesheet">
-    <link href="/css/auto-complete.css?1741190645" rel="stylesheet">
-    <link href="/css/atom-one-dark-reasonable.css?1741190645" rel="stylesheet">
-    <link href="/css/theme.css?1741190645" rel="stylesheet">
-    <link href="/css/tabs.css?1741190645" rel="stylesheet">
-    <link href="/css/hugo-theme.css?1741190645" rel="stylesheet">
+    <link href="/css/nucleus.css?1741210206" rel="stylesheet">
+    <link href="/css/fontawesome-all.min.css?1741210206" rel="stylesheet">
+    <link href="/css/hybrid.css?1741210206" rel="stylesheet">
+    <link href="/css/featherlight.min.css?1741210206" rel="stylesheet">
+    <link href="/css/perfect-scrollbar.min.css?1741210206" rel="stylesheet">
+    <link href="/css/auto-complete.css?1741210206" rel="stylesheet">
+    <link href="/css/atom-one-dark-reasonable.css?1741210206" rel="stylesheet">
+    <link href="/css/theme.css?1741210206" rel="stylesheet">
+    <link href="/css/tabs.css?1741210206" rel="stylesheet">
+    <link href="/css/hugo-theme.css?1741210206" rel="stylesheet">
     
-    <link href="/css/theme-mine.css?1741190645" rel="stylesheet">
+    <link href="/css/theme-mine.css?1741210206" rel="stylesheet">
     
     
 
@@ -55,14 +55,14 @@
     <span data-search-clear=""><i class="fas fa-times"></i></span>
 </div>
 
-<script type="text/javascript" src="/js/lunr.min.js?1741190645"></script>
-<script type="text/javascript" src="/js/auto-complete.js?1741190645"></script>
+<script type="text/javascript" src="/js/lunr.min.js?1741210206"></script>
+<script type="text/javascript" src="/js/auto-complete.js?1741210206"></script>
 <script type="text/javascript">
     
         var baseurl = "\/\/localhost:1313\/";
     
 </script>
-<script type="text/javascript" src="/js/search.js?1741190645"></script>
+<script type="text/javascript" src="/js/search.js?1741210206"></script>
 
     
   </div>
@@ -582,25 +582,60 @@
 
 
 	<h1 id="introduction">Introduction</h1>
-<h2 id="learning-objectives">Learning Objectives <!-- MODIFY THIS SUBHEADING --></h2>
-<p>This paragraph block should highlight the learning objectives of the workshop. A bulleted list works well for this purpose.</p>
-<h2 id="workshop-structure">Workshop Structure <!-- MODIFY THIS SUBHEADING --></h2>
-<p>This paragraph block should be utilized to briefly explain the submodules that are going to be presented as well as the approximate total time for the workshop and individual submodules. <br></p>
-<p>For example:</p>
+<h2 id="learning-objectives"><strong>Learning Objectives</strong></h2>
+<p>By the end of this workshop, you will be able to:</p>
 <ul>
-    <li> Prerequisites *(15 minutes)* </li>
-    <li> Setting up an account for the solution *(15 minutes)* </li>
-    <li> Module 1: Module 1 Title *(30 minutes)* </li>
-    <li> Module 2: Module 2 Title *(30 minutes)* </li>
-    <li> Module 3: Module 3 Title *(30 minutes)* </li>
+<li>Understand the <strong>Qumulo ScaleAnywhere™ architecture</strong> and how it enables seamless data management across hybrid and cloud environments.</li>
+<li>Deploy and configure <strong>Qumulo on AWS</strong>, including <strong>persistent storage, compute storage, and client infrastructure</strong>.</li>
+<li>Navigate the <strong>Qumulo GUI</strong>, analyze storage performance with built-in metrics, and manage multi-protocol file sharing (<strong>NFS, SMB, and S3</strong>).</li>
+<li>Scale <strong>Qumulo clusters dynamically</strong>, both horizontally (scale-out/in) and vertically (scale-up/down).</li>
+<li>Leverage <strong>Cloud Data Fabric (CDF)</strong> to create a hub/spoke data portal and optimize access scenarios across global namespace.</li>
+<li>Implement <strong>High Availability (HA) and Disaster Recovery (DR)</strong> strategies using snapshots and replication</li>
+<li>How to migratye data using <strong>Shift-to/from Amazon S3</strong>.</li>
 </ul>
-
-<div class="notices info" ><p style='text-align: left;'>
-**REMOVE:** With the exception of _index.md, the module folders and filenames should be changed to better reflect their content, i.e. 1_Planning as the folder and 11_HowToBegin as the first submodule. Changing the "weight" value of the header is ultimately what reflects the order the modules are presented.
-</p>
-</div>
-
-<p><strong>REMOVE:</strong> Every introduction page should include the following warning label.</p>
+<hr>
+<h2 id="workshop-structure-modules"><strong>Workshop Structure (Modules)</strong></h2>
+<h3 id="module-1-qumulo-architecture-scaleanywhere"><strong>Module 1: Qumulo Architecture ScaleAnywhere</strong></h3>
+<ul>
+<li>Introduction to <strong>Qumulo’s ScaleAnywhere™ and RunAnywhere™ architecture</strong></li>
+<li><strong>Cloud-Native Qumulo Architecture</strong> overview</li>
+<li><strong>Cloud Data Fabric (CDF)</strong> and hybrid data management</li>
+</ul>
+<h3 id="module-2-deploying-qumulo-on-aws"><strong>Module 2: Deploying Qumulo on AWS</strong></h3>
+<ul>
+<li><strong>Prerequisites</strong> for deployment</li>
+<li>Deploying <strong>client infrastructure</strong></li>
+<li><strong>Persistent Storage Deployment</strong> (CloudFormation or Nexus GUI)</li>
+<li><strong>Compute Storage Deployment</strong> (CloudFormation or Nexus GUI)</li>
+</ul>
+<h3 id="module-3-qumulo-gui"><strong>Module 3: Qumulo GUI</strong></h3>
+<ul>
+<li><strong>Dashboard overview</strong> and system status</li>
+<li><strong>Analytics &amp; Metrics</strong>: Monitoring performance</li>
+<li><strong>Sharing</strong>: Creating <strong>multi-protocol shares</strong> (NFS, SMB, S3)</li>
+<li><strong>Access Control &amp; Security</strong></li>
+</ul>
+<h3 id="module-4-scalability"><strong>Module 4: Scalability</strong></h3>
+<ul>
+<li><strong>Scale-out</strong>: Adding a node to the cluster</li>
+<li><strong>Scale-in</strong>: Removing a node</li>
+<li><strong>Scale-up</strong>: Increasing storage capacity of existing instances</li>
+<li><strong>Scale-down</strong>: Reducing resources of existing instances (optional)</li>
+</ul>
+<h3 id="module-5-cloud-data-fabric"><strong>Module 5: Cloud Data Fabric</strong></h3>
+<ul>
+<li><strong>Creating a hub/spoke portal</strong> for hybrid cloud workflows</li>
+<li><strong>Testing access scenarios</strong> across on-prem and cloud environments</li>
+</ul>
+<h3 id="module-6-high-availability--disaster-recovery"><strong>Module 6: High Availability &amp; Disaster Recovery</strong></h3>
+<ul>
+<li><strong>Snapshots and replication</strong> for data protection</li>
+<li><strong>Continuous replication</strong> and disaster recovery</li>
+<li><strong>Shift-to Amazon S3</strong>: Archiving data to AWS storage</li>
+<li><strong>Shift-from Amazon S3</strong>: Restoring data from AWS storage</li>
+</ul>
+<hr>
+<p>This structured approach ensures a hands-on learning experience, providing participants with <strong>real-world skills</strong> in deploying, managing, and scaling Qumulo storage solutions in AWS.</p>
 
 <div class="notices warning" ><p>The examples and sample code provided in this workshop are intended to be consumed as instructional content. These will help you understand how various AWS services can be architected to build a solution while demonstrating best practices along the way. These examples are not intended for use in production environments.</p>
 </div>
@@ -926,19 +961,19 @@
     <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
       <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
     </div>
-    <script src="/js/clipboard.min.js?1741190645"></script>
-    <script src="/js/perfect-scrollbar.min.js?1741190645"></script>
-    <script src="/js/perfect-scrollbar.jquery.min.js?1741190645"></script>
-    <script src="/js/jquery.sticky.js?1741190645"></script>
-    <script src="/js/featherlight.min.js?1741190645"></script>
-    <script src="/js/highlight.pack.js?1741190645"></script>
+    <script src="/js/clipboard.min.js?1741210206"></script>
+    <script src="/js/perfect-scrollbar.min.js?1741210206"></script>
+    <script src="/js/perfect-scrollbar.jquery.min.js?1741210206"></script>
+    <script src="/js/jquery.sticky.js?1741210206"></script>
+    <script src="/js/featherlight.min.js?1741210206"></script>
+    <script src="/js/highlight.pack.js?1741210206"></script>
     <script>hljs.initHighlightingOnLoad();</script>
-    <script src="/js/modernizr.custom-3.6.0.js?1741190645"></script>
-    <script src="/js/learn.js?1741190645"></script>
-    <script src="/js/hugo-learn.js?1741190645"></script>
+    <script src="/js/modernizr.custom-3.6.0.js?1741210206"></script>
+    <script src="/js/learn.js?1741210206"></script>
+    <script src="/js/hugo-learn.js?1741210206"></script>
     
         
-            <script src="/mermaid/mermaid.js?1741190645"></script>
+            <script src="/mermaid/mermaid.js?1741210206"></script>
         
         <script>
             mermaid.initialize({ startOnLoad: true });
