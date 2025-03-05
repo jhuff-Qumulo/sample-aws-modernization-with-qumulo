@@ -1,10 +1,10 @@
 ---
-title: "AWS Modernization Workshop Base Template" # MODIFY THIS TO BE THE TITLE OF YOUR WORKSHOP
+title: "Qumulo on AWS Workshop" # MODIFY THIS TO BE THE TITLE OF YOUR WORKSHOP
 chapter: true
 weight: 1
 ---
 
-# AWS Modernization Workshop Base Template <!-- CHANGE THIS TO BE THE TITLE OF YOUR WORKSHOP -->
+# Qumulo on AWS Workshop <!-- CHANGE THIS TO BE THE TITLE OF YOUR WORKSHOP -->
 <br>
 ![Partner Logo](/images/AWS_Logo.png)  <!-- ADD YOUR PARTNER LOGO HERE USING THE INSTRUCTIONS BELOW -->
 <br>
