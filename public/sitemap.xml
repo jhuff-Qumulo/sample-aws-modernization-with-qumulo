@@ -2,67 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/4_gui/41_dashboard.html</loc>
+    <loc>//localhost:1313/6_analytics/61_portal.html</loc>
   </url><url>
-    <loc>//localhost:1313/6_cdf/61_portal.html</loc>
-  </url><url>
-    <loc>//localhost:1313/7_hadr/71_snapshot.html</loc>
+    <loc>//localhost:1313/4_collaboration/41_dashboard.html</loc>
   </url><url>
     <loc>//localhost:1313/1_introduction.html</loc>
   </url><url>
-    <loc>//localhost:1313/3_deploying/31_prerequesites.html</loc>
+    <loc>//localhost:1313/3_elasticity/31_saz_maz.html</loc>
   </url><url>
     <loc>//localhost:1313/</loc>
   </url><url>
-    <loc>//localhost:1313/2_architecture/21_runanywhere.html</loc>
+    <loc>//localhost:1313/1_introduction/11_runanywhere.html</loc>
   </url><url>
-    <loc>//localhost:1313/5_scalability/51_scale-out.html</loc>
+    <loc>//localhost:1313/2_simplicity/21_deploy.html</loc>
   </url><url>
-    <loc>//localhost:1313/4_gui/42_analytics.html</loc>
+    <loc>//localhost:1313/5_hybrid/51_scale-out.html</loc>
   </url><url>
-    <loc>//localhost:1313/5_scalability/52_scale-in.html</loc>
+    <loc>//localhost:1313/4_collaboration/42_analytics.html</loc>
   </url><url>
-    <loc>//localhost:1313/6_cdf/62_cdf.html</loc>
+    <loc>//localhost:1313/3_elasticity/32_scaleout.html</loc>
   </url><url>
-    <loc>//localhost:1313/7_hadr/72_replication.html</loc>
+    <loc>//localhost:1313/1_introduction/12_cnq.html</loc>
   </url><url>
-    <loc>//localhost:1313/3_deploying/32_client.html</loc>
+    <loc>//localhost:1313/2_simplicity/22_upgrade.html</loc>
   </url><url>
-    <loc>//localhost:1313/2_architecture/22_cnq.html</loc>
+    <loc>//localhost:1313/2_simplicity.html</loc>
   </url><url>
-    <loc>//localhost:1313/2_architecture.html</loc>
+    <loc>//localhost:1313/5_hybrid/52_scale-in.html</loc>
   </url><url>
-    <loc>//localhost:1313/2_architecture/23_cdf.html</loc>
+    <loc>//localhost:1313/6_analytics/62_cdf.html</loc>
   </url><url>
-    <loc>//localhost:1313/4_gui/43_sharing.html</loc>
+    <loc>//localhost:1313/1_introduction/13_cdf.html</loc>
   </url><url>
-    <loc>//localhost:1313/5_scalability/53_scale-up.html</loc>
+    <loc>//localhost:1313/1_introduction/14_prereq.html</loc>
   </url><url>
-    <loc>//localhost:1313/3_deploying.html</loc>
+    <loc>//localhost:1313/3_elasticity.html</loc>
   </url><url>
-    <loc>//localhost:1313/3_deploying/33_storage.html</loc>
+    <loc>//localhost:1313/3_elasticity/33_storage.html</loc>
   </url><url>
-    <loc>//localhost:1313/4_gui/44_cluster.html</loc>
+    <loc>//localhost:1313/5_hybrid/53_scale-up.html</loc>
   </url><url>
-    <loc>//localhost:1313/5_scalability/54_scale-down.html</loc>
+    <loc>//localhost:1313/4_collaboration/43_sharing.html</loc>
   </url><url>
-    <loc>//localhost:1313/4_gui.html</loc>
+    <loc>//localhost:1313/4_collaboration/44_cluster.html</loc>
   </url><url>
-    <loc>//localhost:1313/6_cdf.html</loc>
+    <loc>//localhost:1313/4_collaboration.html</loc>
   </url><url>
-    <loc>//localhost:1313/7_hadr.html</loc>
+    <loc>//localhost:1313/3_elasticity/34_compute.html</loc>
   </url><url>
-    <loc>//localhost:1313/5_scalability.html</loc>
+    <loc>//localhost:1313/4_collaboration/45_apitools.html</loc>
   </url><url>
-    <loc>//localhost:1313/3_deploying/34_compute.html</loc>
+    <loc>//localhost:1313/5_hybrid.html</loc>
   </url><url>
-    <loc>//localhost:1313/4_gui/45_apitools.html</loc>
+    <loc>//localhost:1313/6_analytics.html</loc>
   </url><url>
-    <loc>//localhost:1313/4_gui/46_nexus.html</loc>
+    <loc>//localhost:1313/4_collaboration/46_nexus.html</loc>
   </url><url>
-    <loc>//localhost:1313/4_gui/47_openmetrics.html</loc>
-  </url><url>
-    <loc>//localhost:1313/getting-started.html</loc>
+    <loc>//localhost:1313/4_collaboration/47_openmetrics.html</loc>
   </url><url>
     <loc>//localhost:1313/categories.html</loc>
   </url><url>
