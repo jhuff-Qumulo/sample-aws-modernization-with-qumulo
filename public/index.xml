@@ -8,17 +8,10 @@
     <language>en</language>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hybrid configuration</title>
-      <link>//localhost:1313/5_hybrid/51_hybrid.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/5_hybrid/51_hybrid.html</guid>
-      <description>&lt;h1 id=&#34;hybrid-configuration&#34;&gt;&lt;strong&gt;Hybrid configuration&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;section1&#34;&gt;&lt;strong&gt;Section1&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Section1&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;&lt;strong&gt;Key Takeaways&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;By the end of this module, you will:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Takeaways&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;topics-covered&#34;&gt;&lt;strong&gt;Topics Covered&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;covered&#34;&gt;&lt;strong&gt;Covered&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Covered&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;next-steps&#34;&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Next steps&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Qumulo GUI realtime analytics</title>
-      <link>//localhost:1313/6_analytics/61_gui.html</link>
+      <link>//localhost:1313/3_analytics/31_gui.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/6_analytics/61_gui.html</guid>
+      <guid>//localhost:1313/3_analytics/31_gui.html</guid>
       <description>&lt;h1 id=&#34;qumulo-gui-realtime-analytics&#34;&gt;&lt;strong&gt;Qumulo GUI realtime analytics&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;section1&#34;&gt;&lt;strong&gt;Section1&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Section1&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;&lt;strong&gt;Key Takeaways&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;By the end of this module, you will:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Takeaways&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;topics-covered&#34;&gt;&lt;strong&gt;Topics Covered&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;covered&#34;&gt;&lt;strong&gt;Covered&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Covered&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;next-steps&#34;&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Next steps&lt;/p&gt;</description>
     </item>
     <item>
@@ -29,6 +22,13 @@
       <description>&lt;!-- MORE SUBMODULES CAN BE ADDED TO DIVIDE UP THE SETUP INTO SMALLER SECTIONS --&gt;&#xA;&lt;!-- COPY AND PASTE THIS SUBMODULE FILE, RENAME, AND CHANGE THE CONTENTS AS NECESSARY --&gt;&#xA;&lt;h1 id=&#34;qumulo-runanywhere-architecture&#34;&gt;&lt;strong&gt;Qumulo RunAnywhere Architecture&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;section1&#34;&gt;&lt;strong&gt;Section1&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Section1&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;&lt;strong&gt;Key Takeaways&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;By the end of this module, you will:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Takeaways&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;topics-covered&#34;&gt;&lt;strong&gt;Topics Covered&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;covered&#34;&gt;&lt;strong&gt;Covered&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Covered&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;next-steps&#34;&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Next steps&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Scale-out</title>
+      <link>//localhost:1313/2_elasticity/21_scaleoutin.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/2_elasticity/21_scaleoutin.html</guid>
+      <description>&lt;h1 id=&#34;scale-out&#34;&gt;&lt;strong&gt;Scale-out&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;section1&#34;&gt;&lt;strong&gt;Section1&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Section1&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;&lt;strong&gt;Key Takeaways&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;By the end of this module, you will:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Takeaways&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;topics-covered&#34;&gt;&lt;strong&gt;Topics Covered&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;covered&#34;&gt;&lt;strong&gt;Covered&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Covered&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;next-steps&#34;&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Next steps&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Cloud-Native Qumulo</title>
       <link>//localhost:1313/1_introduction/12_cnq.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -36,32 +36,18 @@
       <description>&lt;h1 id=&#34;cloud-native-qumulo-architecture&#34;&gt;&lt;strong&gt;Cloud-Native Qumulo Architecture&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;section1&#34;&gt;&lt;strong&gt;Section1&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Section1&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;&lt;strong&gt;Key Takeaways&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;By the end of this module, you will:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Takeaways&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;topics-covered&#34;&gt;&lt;strong&gt;Topics Covered&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;covered&#34;&gt;&lt;strong&gt;Covered&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Covered&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;next-steps&#34;&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Next steps&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Integration with AWS services</title>
-      <link>//localhost:1313/5_hybrid/52_awsservices.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/5_hybrid/52_awsservices.html</guid>
-      <description>&lt;h1 id=&#34;sintegration-with-aws-services&#34;&gt;&lt;strong&gt;SIntegration with AWS services&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;section1&#34;&gt;&lt;strong&gt;Section1&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Section1&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;&lt;strong&gt;Key Takeaways&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;By the end of this module, you will:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Takeaways&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;topics-covered&#34;&gt;&lt;strong&gt;Topics Covered&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;covered&#34;&gt;&lt;strong&gt;Covered&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Covered&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;next-steps&#34;&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Next steps&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Nexus</title>
-      <link>//localhost:1313/6_analytics/62_nexus.html</link>
+      <link>//localhost:1313/3_analytics/32_nexus.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/6_analytics/62_nexus.html</guid>
+      <guid>//localhost:1313/3_analytics/32_nexus.html</guid>
       <description>&lt;h1 id=&#34;nexus&#34;&gt;&lt;strong&gt;Nexus&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;section1&#34;&gt;&lt;strong&gt;Section1&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Section1&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;&lt;strong&gt;Key Takeaways&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;By the end of this module, you will:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Takeaways&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;topics-covered&#34;&gt;&lt;strong&gt;Topics Covered&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;covered&#34;&gt;&lt;strong&gt;Covered&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Covered&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;next-steps&#34;&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Next steps&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Open Metrics API</title>
-      <link>//localhost:1313/6_analytics/63_openmetrics.html</link>
+      <title>Scale-up</title>
+      <link>//localhost:1313/2_elasticity/22_scaleupdown.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/6_analytics/63_openmetrics.html</guid>
-      <description>&lt;h1 id=&#34;open-metrics-api&#34;&gt;&lt;strong&gt;Open Metrics API&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;section1&#34;&gt;&lt;strong&gt;Section1&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Section1&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;&lt;strong&gt;Key Takeaways&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;By the end of this module, you will:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Takeaways&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;topics-covered&#34;&gt;&lt;strong&gt;Topics Covered&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;covered&#34;&gt;&lt;strong&gt;Covered&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Covered&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;next-steps&#34;&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Next steps&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Scale-out</title>
-      <link>//localhost:1313/3_elasticity/32_scaleoutin.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/3_elasticity/32_scaleoutin.html</guid>
-      <description>&lt;h1 id=&#34;scale-out&#34;&gt;&lt;strong&gt;Scale-out&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;section1&#34;&gt;&lt;strong&gt;Section1&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Section1&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;&lt;strong&gt;Key Takeaways&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;By the end of this module, you will:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Takeaways&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;topics-covered&#34;&gt;&lt;strong&gt;Topics Covered&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;covered&#34;&gt;&lt;strong&gt;Covered&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Covered&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;next-steps&#34;&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Next steps&lt;/p&gt;</description>
+      <guid>//localhost:1313/2_elasticity/22_scaleupdown.html</guid>
+      <description>&lt;h1 id=&#34;scale-up&#34;&gt;&lt;strong&gt;Scale-up&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;section1&#34;&gt;&lt;strong&gt;Section1&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Section1&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;&lt;strong&gt;Key Takeaways&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;By the end of this module, you will:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Takeaways&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;topics-covered&#34;&gt;&lt;strong&gt;Topics Covered&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;covered&#34;&gt;&lt;strong&gt;Covered&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Covered&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;next-steps&#34;&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Next steps&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cloud Data Fabric</title>
@@ -71,11 +57,11 @@
       <description>&lt;h1 id=&#34;cloud-data-fabric-architecture&#34;&gt;&lt;strong&gt;Cloud Data Fabric Architecture&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;section1&#34;&gt;&lt;strong&gt;Section1&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Section1&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;&lt;strong&gt;Key Takeaways&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;By the end of this module, you will:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Takeaways&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;topics-covered&#34;&gt;&lt;strong&gt;Topics Covered&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;covered&#34;&gt;&lt;strong&gt;Covered&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Covered&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;next-steps&#34;&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Next steps&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Performance and Cache</title>
-      <link>//localhost:1313/5_hybrid/53_performance_cache.html</link>
+      <title>Open Metrics API</title>
+      <link>//localhost:1313/3_analytics/33_openmetrics.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/5_hybrid/53_performance_cache.html</guid>
-      <description>&lt;h1 id=&#34;performance-and-cache&#34;&gt;&lt;strong&gt;Performance and Cache&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;section1&#34;&gt;&lt;strong&gt;Section1&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Section1&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;&lt;strong&gt;Key Takeaways&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;By the end of this module, you will:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Takeaways&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;topics-covered&#34;&gt;&lt;strong&gt;Topics Covered&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;covered&#34;&gt;&lt;strong&gt;Covered&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Covered&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;next-steps&#34;&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Next steps&lt;/p&gt;</description>
+      <guid>//localhost:1313/3_analytics/33_openmetrics.html</guid>
+      <description>&lt;h1 id=&#34;open-metrics-api&#34;&gt;&lt;strong&gt;Open Metrics API&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;section1&#34;&gt;&lt;strong&gt;Section1&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Section1&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;&lt;strong&gt;Key Takeaways&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;By the end of this module, you will:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Takeaways&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;topics-covered&#34;&gt;&lt;strong&gt;Topics Covered&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;covered&#34;&gt;&lt;strong&gt;Covered&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Covered&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;next-steps&#34;&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Next steps&lt;/p&gt;</description>
     </item>
     <item>
       <title>Prerequisites</title>
@@ -85,11 +71,11 @@
       <description>&lt;h1 id=&#34;prerequisites&#34;&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;section1&#34;&gt;&lt;strong&gt;Section1&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Section1&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;&lt;strong&gt;Key Takeaways&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;By the end of this module, you will:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Takeaways&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;topics-covered&#34;&gt;&lt;strong&gt;Topics Covered&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;covered&#34;&gt;&lt;strong&gt;Covered&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Covered&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;next-steps&#34;&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Next steps&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Scale-up</title>
-      <link>//localhost:1313/3_elasticity/33_scaleupdown.html</link>
+      <title>Software upgrade</title>
+      <link>//localhost:1313/2_elasticity/23_upgrade.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/3_elasticity/33_scaleupdown.html</guid>
-      <description>&lt;h1 id=&#34;scale-up&#34;&gt;&lt;strong&gt;Scale-up&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;section1&#34;&gt;&lt;strong&gt;Section1&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Section1&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;&lt;strong&gt;Key Takeaways&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;By the end of this module, you will:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Takeaways&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;topics-covered&#34;&gt;&lt;strong&gt;Topics Covered&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;covered&#34;&gt;&lt;strong&gt;Covered&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Covered&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;next-steps&#34;&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Next steps&lt;/p&gt;</description>
+      <guid>//localhost:1313/2_elasticity/23_upgrade.html</guid>
+      <description>&lt;h1 id=&#34;software-upgrade&#34;&gt;&lt;strong&gt;Software upgrade&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;section1&#34;&gt;&lt;strong&gt;Section1&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Section1&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;&lt;strong&gt;Key Takeaways&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;By the end of this module, you will:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Takeaways&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;topics-covered&#34;&gt;&lt;strong&gt;Topics Covered&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;covered&#34;&gt;&lt;strong&gt;Covered&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Covered&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;next-steps&#34;&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Next steps&lt;/p&gt;</description>
     </item>
     <item>
       <title>Deploying CNQ on AWS</title>
@@ -100,31 +86,24 @@
     </item>
     <item>
       <title>Snapshot and Replication</title>
-      <link>//localhost:1313/3_elasticity/34_snapshot_replication.html</link>
+      <link>//localhost:1313/2_elasticity/24_snapshot_replication.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/3_elasticity/34_snapshot_replication.html</guid>
+      <guid>//localhost:1313/2_elasticity/24_snapshot_replication.html</guid>
       <description>&lt;h1 id=&#34;snapshot-and-replication&#34;&gt;&lt;strong&gt;Snapshot and Replication&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;section1&#34;&gt;&lt;strong&gt;Section1&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Section1&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;&lt;strong&gt;Key Takeaways&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;By the end of this module, you will:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Takeaways&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;topics-covered&#34;&gt;&lt;strong&gt;Topics Covered&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;covered&#34;&gt;&lt;strong&gt;Covered&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Covered&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;next-steps&#34;&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Next steps&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Software upgrade</title>
-      <link>//localhost:1313/3_elasticity/35_upgrade.html</link>
+      <title>Multi-protocol collaboration</title>
+      <link>//localhost:1313/2_elasticity/25_multiprotocol.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/3_elasticity/35_upgrade.html</guid>
-      <description>&lt;h1 id=&#34;software-upgrade&#34;&gt;&lt;strong&gt;Software upgrade&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;section1&#34;&gt;&lt;strong&gt;Section1&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Section1&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;&lt;strong&gt;Key Takeaways&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;By the end of this module, you will:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Takeaways&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;topics-covered&#34;&gt;&lt;strong&gt;Topics Covered&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;covered&#34;&gt;&lt;strong&gt;Covered&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Covered&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;next-steps&#34;&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Next steps&lt;/p&gt;</description>
+      <guid>//localhost:1313/2_elasticity/25_multiprotocol.html</guid>
+      <description>&lt;h1 id=&#34;multi-protocol-collaboration&#34;&gt;&lt;strong&gt;Multi-protocol collaboration&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;section1&#34;&gt;&lt;strong&gt;Section1&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Section1&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;&lt;strong&gt;Key Takeaways&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;By the end of this module, you will:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Takeaways&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;topics-covered&#34;&gt;&lt;strong&gt;Topics Covered&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;covered&#34;&gt;&lt;strong&gt;Covered&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Covered&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;next-steps&#34;&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Next steps&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cloud Data Fabric portals</title>
-      <link>//localhost:1313/3_elasticity/36_cdf_portals.html</link>
+      <link>//localhost:1313/2_elasticity/26_cdf_portals.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/3_elasticity/36_cdf_portals.html</guid>
+      <guid>//localhost:1313/2_elasticity/26_cdf_portals.html</guid>
       <description>&lt;h1 id=&#34;scale-anywhere-with-cloud-data-fabric-portals&#34;&gt;&lt;strong&gt;Scale Anywhere with Cloud Data Fabric portals&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;section1&#34;&gt;&lt;strong&gt;Section1&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Section1&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;&lt;strong&gt;Key Takeaways&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;By the end of this module, you will:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Takeaways&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;topics-covered&#34;&gt;&lt;strong&gt;Topics Covered&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;covered&#34;&gt;&lt;strong&gt;Covered&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Covered&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;next-steps&#34;&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Next steps&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Multi-protocol collaboration</title>
-      <link>//localhost:1313/3_elasticity/37_multiprotocol.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/3_elasticity/37_multiprotocol.html</guid>
-      <description>&lt;h1 id=&#34;multi-protocol-collaboration&#34;&gt;&lt;strong&gt;Multi-protocol collaboration&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;section1&#34;&gt;&lt;strong&gt;Section1&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Section1&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;&lt;strong&gt;Key Takeaways&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;By the end of this module, you will:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Takeaways&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;topics-covered&#34;&gt;&lt;strong&gt;Topics Covered&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;covered&#34;&gt;&lt;strong&gt;Covered&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Covered&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;next-steps&#34;&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Next steps&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

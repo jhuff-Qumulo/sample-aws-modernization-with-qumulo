@@ -1,10 +1,10 @@
 ---
-title: "Realtime file system analytics" # MODIFY THIS TITLE IF APPLICABLE
+title: "Real-time file system analytics" # MODIFY THIS TITLE IF APPLICABLE
 chapter: true
 weight: 3
 ---
 
-# Realtime file system analytics <!-- MODIFY THIS HEADING -->
+# Real-time file system analytics <!-- MODIFY THIS HEADING -->
 
 ## **Introduction**  
 Introduction
