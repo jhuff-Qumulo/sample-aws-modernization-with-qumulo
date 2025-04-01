@@ -1,7 +1,7 @@
 ---
 title: "Elasticity and Operational Simplicity" # MODIFY THIS TITLE IF APPLICABLE
 chapter: true
-weight: 3
+weight: 2
 ---
 
 # Elasticity and Operational Simplicity <!-- MODIFY THIS HEADING -->

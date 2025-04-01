@@ -1,10 +1,10 @@
 ---
-title: "Single AZ / Multiple AZ" 
+title: "Cloud Data Fabric portals" 
 chapter: true
-weight: 1 
+weight: 7 
 ---
 
-# **Single AZ / Multiple AZ**
+# **Scale Anywhere with Cloud Data Fabric portals**
 
 ## **Section1**  
 Section1

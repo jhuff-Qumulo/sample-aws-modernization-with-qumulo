@@ -1,10 +1,11 @@
 ---
-title: "Simplicity of Deployment" # MODIFY THIS TITLE IF APPLICABLE
+title: "Software upgrade" 
 chapter: true
-weight: 2
+weight: 4 
 ---
 
-# Simplicity of Deployment <!-- MODIFY THIS HEADING -->
+
+# **Software upgrade**  
 
 
 ## **Section1**  

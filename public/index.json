@@ -1,19 +1,5 @@
 [
 {
-	"uri": "//localhost:1313/4_collaboration/41_cdf_portals.html",
-	"title": "Cloud Data Fabric portals",
-	"tags": [],
-	"description": "",
-	"content": "Scale Anywhere with Cloud Data Fabric portals Section1 Section1\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Covered Covered Next Steps Next steps\n"
-},
-{
-	"uri": "//localhost:1313/2_simplicity/21_deploy.html",
-	"title": "Deploying CNQ on AWS",
-	"tags": [],
-	"description": "",
-	"content": "Deploying CNQ on AWS Section1 Section1\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Covered Covered Next Steps Next steps\n"
-},
-{
 	"uri": "//localhost:1313/5_hybrid/51_hybrid.html",
 	"title": "Hybrid configuration",
 	"tags": [],
@@ -49,13 +35,6 @@
 	"content": " Qumulo RunAnywhere Architecture Section1 Section1\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Covered Covered Next Steps Next steps\n"
 },
 {
-	"uri": "//localhost:1313/3_elasticity/31_saz_maz.html",
-	"title": "Single AZ / Multiple AZ",
-	"tags": [],
-	"description": "",
-	"content": "Single AZ / Multiple AZ Section1 Section1\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Covered Covered Next Steps Next steps\n"
-},
-{
 	"uri": "//localhost:1313/1_introduction/12_cnq.html",
 	"title": "Cloud-Native Qumulo",
 	"tags": [],
@@ -63,18 +42,18 @@
 	"content": "Cloud-Native Qumulo Architecture Section1 Section1\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Covered Covered Next Steps Next steps\n"
 },
 {
+	"uri": "//localhost:1313/3_elasticity.html",
+	"title": "Elasticity and Operational Simplicity",
+	"tags": [],
+	"description": "",
+	"content": "Elasticity and Operational Simplicity Introduction Introduction\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Topics covered The examples and sample code provided in this workshop are intended to be consumed as instructional content. These will help you understand how various AWS services can be architected to build a solution while demonstrating best practices along the way. These examples are not intended for use in production environments.\n"
+},
+{
 	"uri": "//localhost:1313/5_hybrid/52_awsservices.html",
 	"title": "Integration with AWS services",
 	"tags": [],
 	"description": "",
 	"content": "SIntegration with AWS services Section1 Section1\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Covered Covered Next Steps Next steps\n"
-},
-{
-	"uri": "//localhost:1313/4_collaboration/42_multiprotocol.html",
-	"title": "Multi-protocol collaboration",
-	"tags": [],
-	"description": "",
-	"content": "Multi-protocol collaboration Section1 Section1\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Covered Covered Next Steps Next steps\n"
 },
 {
 	"uri": "//localhost:1313/6_analytics/62_nexus.html",
@@ -98,32 +77,11 @@
 	"content": "Scale-out Section1 Section1\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Covered Covered Next Steps Next steps\n"
 },
 {
-	"uri": "//localhost:1313/2_simplicity.html",
-	"title": "Simplicity of Deployment",
-	"tags": [],
-	"description": "",
-	"content": "Simplicity of Deployment Section1 Section1\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Covered Covered Next Steps Next steps\n"
-},
-{
-	"uri": "//localhost:1313/2_simplicity/22_upgrade.html",
-	"title": "Software upgrade",
-	"tags": [],
-	"description": "",
-	"content": "Software upgrade Section1 Section1\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Covered Covered Next Steps Next steps\n"
-},
-{
 	"uri": "//localhost:1313/1_introduction/13_cdf.html",
 	"title": "Cloud Data Fabric",
 	"tags": [],
 	"description": "",
 	"content": "Cloud Data Fabric Architecture Section1 Section1\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Covered Covered Next Steps Next steps\n"
-},
-{
-	"uri": "//localhost:1313/3_elasticity.html",
-	"title": "Elasticity and Operational Simplicity",
-	"tags": [],
-	"description": "",
-	"content": "Elasticity and Operational Simplicity Introduction Introduction\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Topics covered The examples and sample code provided in this workshop are intended to be consumed as instructional content. These will help you understand how various AWS services can be architected to build a solution while demonstrating best practices along the way. These examples are not intended for use in production environments.\n"
 },
 {
 	"uri": "//localhost:1313/5_hybrid/53_performance_cache.html",
@@ -147,18 +105,11 @@
 	"content": "Scale-up Section1 Section1\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Covered Covered Next Steps Next steps\n"
 },
 {
-	"uri": "//localhost:1313/4_collaboration.html",
-	"title": "Multi-Region collaboration",
+	"uri": "//localhost:1313/1_introduction/15_deploy.html",
+	"title": "Deploying CNQ on AWS",
 	"tags": [],
 	"description": "",
-	"content": "Multi-Region collaboration Introduction Introduction\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Topics covered The examples and sample code provided in this workshop are intended to be consumed as instructional content. These will help you understand how various AWS services can be architected to build a solution while demonstrating best practices along the way. These examples are not intended for use in production environments.\n"
-},
-{
-	"uri": "//localhost:1313/3_elasticity/34_snapshot_replication.html",
-	"title": "Snapshot and Replication",
-	"tags": [],
-	"description": "",
-	"content": "Snapshot and Replication Section1 Section1\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Covered Covered Next Steps Next steps\n"
+	"content": "Deploying CNQ on AWS Section1 Section1\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Covered Covered Next Steps Next steps\n"
 },
 {
 	"uri": "//localhost:1313/5_hybrid.html",
@@ -168,11 +119,39 @@
 	"content": "Hybrid burst workloads Key Takeaways By the end of this module, you will:\nTakeaways Topics Covered Topics covered The examples and sample code provided in this workshop are intended to be consumed as instructional content. These will help you understand how various AWS services can be architected to build a solution while demonstrating best practices along the way. These examples are not intended for use in production environments.\n"
 },
 {
+	"uri": "//localhost:1313/3_elasticity/34_snapshot_replication.html",
+	"title": "Snapshot and Replication",
+	"tags": [],
+	"description": "",
+	"content": "Snapshot and Replication Section1 Section1\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Covered Covered Next Steps Next steps\n"
+},
+{
 	"uri": "//localhost:1313/6_analytics.html",
 	"title": "Realtime file system analytics",
 	"tags": [],
 	"description": "",
 	"content": "Realtime file system analytics Introduction Introduction\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Topics covered The examples and sample code provided in this workshop are intended to be consumed as instructional content. These will help you understand how various AWS services can be architected to build a solution while demonstrating best practices along the way. These examples are not intended for use in production environments.\n"
+},
+{
+	"uri": "//localhost:1313/3_elasticity/35_upgrade.html",
+	"title": "Software upgrade",
+	"tags": [],
+	"description": "",
+	"content": "Software upgrade Section1 Section1\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Covered Covered Next Steps Next steps\n"
+},
+{
+	"uri": "//localhost:1313/3_elasticity/36_cdf_portals.html",
+	"title": "Cloud Data Fabric portals",
+	"tags": [],
+	"description": "",
+	"content": "Scale Anywhere with Cloud Data Fabric portals Section1 Section1\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Covered Covered Next Steps Next steps\n"
+},
+{
+	"uri": "//localhost:1313/3_elasticity/37_multiprotocol.html",
+	"title": "Multi-protocol collaboration",
+	"tags": [],
+	"description": "",
+	"content": "Multi-protocol collaboration Section1 Section1\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Covered Covered Next Steps Next steps\n"
 },
 {
 	"uri": "//localhost:1313/categories.html",

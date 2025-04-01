@@ -1,7 +1,7 @@
 ---
 title: "Realtime file system analytics" # MODIFY THIS TITLE IF APPLICABLE
 chapter: true
-weight: 6
+weight: 5
 ---
 
 # Realtime file system analytics <!-- MODIFY THIS HEADING -->

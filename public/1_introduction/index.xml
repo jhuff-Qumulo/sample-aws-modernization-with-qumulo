@@ -35,5 +35,12 @@
       <guid>//localhost:1313/1_introduction/14_prereq.html</guid>
       <description>&lt;h1 id=&#34;prerequisites&#34;&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;section1&#34;&gt;&lt;strong&gt;Section1&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Section1&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;&lt;strong&gt;Key Takeaways&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;By the end of this module, you will:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Takeaways&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;topics-covered&#34;&gt;&lt;strong&gt;Topics Covered&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;covered&#34;&gt;&lt;strong&gt;Covered&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Covered&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;next-steps&#34;&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Next steps&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Deploying CNQ on AWS</title>
+      <link>//localhost:1313/1_introduction/15_deploy.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/1_introduction/15_deploy.html</guid>
+      <description>&lt;h1 id=&#34;deploying-cnq-on-aws&#34;&gt;&lt;strong&gt;Deploying CNQ on AWS&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;section1&#34;&gt;&lt;strong&gt;Section1&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Section1&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;key-takeaways&#34;&gt;&lt;strong&gt;Key Takeaways&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;By the end of this module, you will:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Takeaways&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;topics-covered&#34;&gt;&lt;strong&gt;Topics Covered&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;covered&#34;&gt;&lt;strong&gt;Covered&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Covered&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;next-steps&#34;&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Next steps&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

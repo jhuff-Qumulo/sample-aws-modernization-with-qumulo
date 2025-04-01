@@ -1,10 +1,12 @@
 ---
-title: "Integration with AWS services" 
+title: "Deploying CNQ on AWS" 
 chapter: true
-weight: 2 
+weight: 4
 ---
 
-# **SIntegration with AWS services**
+
+# **Deploying CNQ on AWS**
+
 
 ## **Section1**  
 Section1

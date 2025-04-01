@@ -1,7 +1,7 @@
 ---
 title: "Multi-protocol collaboration" 
 chapter: true
-weight: 2 
+weight: 6 
 ---
 
 # **Multi-protocol collaboration**
