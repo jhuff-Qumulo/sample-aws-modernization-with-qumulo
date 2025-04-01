@@ -1,12 +1,10 @@
 ---
-title: "Software upgrade" 
+title: "Scale-up" 
 chapter: true
-weight: 4 
+weight: 2 
 ---
 
-
-# **Software upgrade**  
-
+# **Scale-up**
 
 ## **Section1**  
 Section1

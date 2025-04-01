@@ -1,10 +1,10 @@
 ---
-title: "Multi-protocol collaboration" 
+title: "Cloud Data Fabric portals" 
 chapter: true
 weight: 6 
 ---
 
-# **Multi-protocol collaboration**
+# **Scale Anywhere with Cloud Data Fabric portals**
 
 ## **Section1**  
 Section1

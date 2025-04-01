@@ -1,10 +1,10 @@
 ---
-title: "Scale-up" 
+title: "Snapshot and Replication" 
 chapter: true
-weight: 3 
+weight: 4 
 ---
 
-# **Scale-up**
+# **Snapshot and Replication**
 
 ## **Section1**  
 Section1

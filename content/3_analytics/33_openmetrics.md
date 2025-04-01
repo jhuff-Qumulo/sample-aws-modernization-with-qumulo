@@ -1,10 +1,10 @@
 ---
-title: "Cloud Data Fabric portals" 
+title: "Open Metrics API" 
 chapter: true
-weight: 7 
+weight: 3
 ---
 
-# **Scale Anywhere with Cloud Data Fabric portals**
+# **Open Metrics API**
 
 ## **Section1**  
 Section1

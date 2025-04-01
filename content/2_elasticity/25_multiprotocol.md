@@ -1,10 +1,10 @@
 ---
-title: "Scale-out" 
+title: "Multi-protocol collaboration" 
 chapter: true
-weight: 2 
+weight: 5 
 ---
 
-# **Scale-out**
+# **Multi-protocol collaboration**
 
 ## **Section1**  
 Section1

@@ -4,7 +4,7 @@
   <url>
     <loc>//localhost:1313/1_introduction.html</loc>
   </url><url>
-    <loc>//localhost:1313/3_analytics/61_gui.html</loc>
+    <loc>//localhost:1313/3_analytics/31_gui.html</loc>
   </url><url>
     <loc>//localhost:1313/</loc>
   </url><url>
@@ -18,7 +18,7 @@
   </url><url>
     <loc>//localhost:1313/3_analytics/63_openmetrics.html</loc>
   </url><url>
-    <loc>//localhost:1313/2_elasticity/32_scaleoutin.html</loc>
+    <loc>//localhost:1313/2_elasticity/22_scaleoutin.html</loc>
   </url><url>
     <loc>//localhost:1313/1_introduction/13_cdf.html</loc>
   </url><url>
@@ -26,17 +26,17 @@
   </url><url>
     <loc>//localhost:1313/3_analytics.html</loc>
   </url><url>
-    <loc>//localhost:1313/2_elasticity/33_scaleupdown.html</loc>
+    <loc>//localhost:1313/2_elasticity/23_scaleupdown.html</loc>
   </url><url>
     <loc>//localhost:1313/1_introduction/15_deploy.html</loc>
   </url><url>
-    <loc>//localhost:1313/2_elasticity/34_upgrade.html</loc>
+    <loc>//localhost:1313/2_elasticity/24_upgrade.html</loc>
   </url><url>
-    <loc>//localhost:1313/2_elasticity/35_snapshot_replication.html</loc>
+    <loc>//localhost:1313/2_elasticity/25_snapshot_replication.html</loc>
   </url><url>
-    <loc>//localhost:1313/2_elasticity/36_multiprotocol.html</loc>
+    <loc>//localhost:1313/2_elasticity/26_multiprotocol.html</loc>
   </url><url>
-    <loc>//localhost:1313/2_elasticity/37_cdf_portals.html</loc>
+    <loc>//localhost:1313/2_elasticity/27_cdf_portals.html</loc>
   </url><url>
     <loc>//localhost:1313/categories.html</loc>
   </url><url>
