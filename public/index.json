@@ -1,0 +1,141 @@
+[
+{
+	"uri": "//localhost:1313/1_introduction.html",
+	"title": "Introduction",
+	"tags": [],
+	"description": "",
+	"content": "Introduction Introduction In today’s data-driven world, organizations need a scalable, high-performance, and flexible storage solution that seamlessly operates across on-premises, cloud, and hybrid environments. Qumulo’s architecture is designed to meet these needs, providing a unified data platform that delivers performance, scalability, and real-time analytics—no matter where your data lives.\nThis module will introduce the core principles of Qumulo’s ScaleAnywhere and RunAnywhere architecture, explaining how Qumulo enables cloud-native, hybrid, and on-prem storage solutions with a consistent user experience. We will also explore Cloud Data Fabric (CDF), which allows organizations to move, manage, and protect data efficiently across different environments.\nKey Takeaways By the end of this module, you will:\nUnderstand the Qumulo architecture and how it supports hybrid and cloud deployments. Learn about RunAnywhere and how Qumulo’s software-defined storage adapts to diverse environments. Explore the Cloud-Native Qumulo Architecture and its benefits for AWS. Gain insights into Cloud Data Fabric (CDF) and how it simplifies data movement and accessibility. Topics Covered Qumulo and RunAnywhere Overview Cloud-Native Qumulo Architecture Cloud Data Fabric (CDF) and Hybrid Storage Strategies This foundational module will set the stage for the hands-on deployment and management of Qumulo in AWS, covered in the next sections.\nThe examples and sample code provided in this workshop are intended to be consumed as instructional content. These will help you understand how various AWS services can be architected to build a solution while demonstrating best practices along the way. These examples are not intended for use in production environments.\n"
+},
+{
+	"uri": "//localhost:1313/3_analytics/31_gui.html",
+	"title": "Qumulo GUI realtime analytics",
+	"tags": [],
+	"description": "",
+	"content": "Qumulo GUI realtime analytics Section1 Section1\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Covered Covered Next Steps Next steps\n"
+},
+{
+	"uri": "//localhost:1313/",
+	"title": "Qumulo on AWS Workshop",
+	"tags": [],
+	"description": "",
+	"content": "Welcome to the Qumulo on AWS Workshop! ![Partner Logo](/images/qlogo.png) Welcome Welcome, and thank you for joining this Qumulo on AWS Workshop! Whether you\u0026rsquo;re exploring Qumulo for the first time or looking to deepen your expertise, this hands-on session will provide you with a clear understanding of how Qumulo\u0026rsquo;s ScaleAnywhere™ architecture enables seamless data management across on-premises and cloud environments.\nThroughout this workshop, we will cover the deployment, configuration, scalability, and management of Qumulo on AWS. You will gain practical experience in deploying persistent and compute storage instances, managing multi-protocol access (NFS, SMB, and S3), leveraging analytics.\nWhat to Expect Hands-on Learning: Deploy and configure Qumulo on AWS using CloudFormation. Real-World Scenarios: Learn best practices for high availability (HA), disaster recovery (DR), and cloud data fabric (CDF) architectures. Scalability \u0026amp; Automation: Understand how to scale clusters dynamically and automate operations using APIs. Interactive Sessions: Engage with experts and explore Qumulo’s capabilities in a cloud-native environment. Who Should Attend? This workshop is designed for storage administrators, cloud architects, DevOps engineers, and IT professionals who want to:\n✔ Learn how to deploy and manage Qumulo on AWS\n✔ Optimize hybrid cloud workflows with Cloud Data Fabric\n✔ Integrate Qumulo with AWS-native services for storage and analytics\n✔ Improve data availability, resilience, and scalability in the cloud\nBy the end of this session, you will have hands-on experience with deploying, managing, and scaling Qumulo in AWS, ensuring you’re equipped to harness the power of cloud-native storage solutions.\nLet\u0026rsquo;s Get Started! We’re excited to have you here. Let’s dive in and explore how Qumulo on AWS can help you simplify data management, enhance performance, and achieve cloud agility at scale.\nThe examples and sample code provided in this workshop are intended to be consumed as instructional content. These will help you understand how various AWS services can be architected to build a solution while demonstrating best practices along the way. These examples are not intended for use in production environments.\n"
+},
+{
+	"uri": "//localhost:1313/1_introduction/11_runanywhere.html",
+	"title": "Qumulo RunAnywhere",
+	"tags": [],
+	"description": "",
+	"content": " Qumulo RunAnywhere Architecture Section1 Section1\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Covered Covered Next Steps Next steps\n"
+},
+{
+	"uri": "//localhost:1313/2_elasticity/21_scaleoutin.html",
+	"title": "Scale-out",
+	"tags": [],
+	"description": "",
+	"content": "Scale-out Section1 Section1\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Covered Covered Next Steps Next steps\n"
+},
+{
+	"uri": "//localhost:1313/1_introduction/12_cnq.html",
+	"title": "Cloud-Native Qumulo",
+	"tags": [],
+	"description": "",
+	"content": "Cloud-Native Qumulo Architecture Section1 Section1\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Covered Covered Next Steps Next steps\n"
+},
+{
+	"uri": "//localhost:1313/2_elasticity.html",
+	"title": "Elasticity and Operational Simplicity",
+	"tags": [],
+	"description": "",
+	"content": "Elasticity and Operational Simplicity Introduction Introduction\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Topics covered The examples and sample code provided in this workshop are intended to be consumed as instructional content. These will help you understand how various AWS services can be architected to build a solution while demonstrating best practices along the way. These examples are not intended for use in production environments.\n"
+},
+{
+	"uri": "//localhost:1313/3_analytics/32_nexus.html",
+	"title": "Nexus",
+	"tags": [],
+	"description": "",
+	"content": "Nexus Section1 Section1\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Covered Covered Next Steps Next steps\n"
+},
+{
+	"uri": "//localhost:1313/2_elasticity/22_scaleupdown.html",
+	"title": "Scale-up",
+	"tags": [],
+	"description": "",
+	"content": "Scale-up Section1 Section1\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Covered Covered Next Steps Next steps\n"
+},
+{
+	"uri": "//localhost:1313/1_introduction/13_cdf.html",
+	"title": "Cloud Data Fabric",
+	"tags": [],
+	"description": "",
+	"content": "Cloud Data Fabric Architecture Section1 Section1\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Covered Covered Next Steps Next steps\n"
+},
+{
+	"uri": "//localhost:1313/3_analytics/33_openmetrics.html",
+	"title": "Open Metrics API",
+	"tags": [],
+	"description": "",
+	"content": "Open Metrics API Section1 Section1\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Covered Covered Next Steps Next steps\n"
+},
+{
+	"uri": "//localhost:1313/1_introduction/14_prereq.html",
+	"title": "Prerequisites",
+	"tags": [],
+	"description": "",
+	"content": "Prerequisites Section1 Section1\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Covered Covered Next Steps Next steps\n"
+},
+{
+	"uri": "//localhost:1313/3_analytics.html",
+	"title": "Real-time file system analytics",
+	"tags": [],
+	"description": "",
+	"content": "Real-time file system analytics Introduction Introduction\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Topics covered The examples and sample code provided in this workshop are intended to be consumed as instructional content. These will help you understand how various AWS services can be architected to build a solution while demonstrating best practices along the way. These examples are not intended for use in production environments.\n"
+},
+{
+	"uri": "//localhost:1313/2_elasticity/23_upgrade.html",
+	"title": "Software upgrade",
+	"tags": [],
+	"description": "",
+	"content": "Software upgrade Section1 Section1\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Covered Covered Next Steps Next steps\n"
+},
+{
+	"uri": "//localhost:1313/1_introduction/15_deploy.html",
+	"title": "Deploying CNQ on AWS",
+	"tags": [],
+	"description": "",
+	"content": "Deploying CNQ on AWS Section1 Section1\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Covered Covered Next Steps Next steps\n"
+},
+{
+	"uri": "//localhost:1313/2_elasticity/24_snapshot_replication.html",
+	"title": "Snapshot and Replication",
+	"tags": [],
+	"description": "",
+	"content": "Snapshot and Replication Section1 Section1\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Covered Covered Next Steps Next steps\n"
+},
+{
+	"uri": "//localhost:1313/2_elasticity/25_multiprotocol.html",
+	"title": "Multi-protocol collaboration",
+	"tags": [],
+	"description": "",
+	"content": "Multi-protocol collaboration Section1 Section1\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Covered Covered Next Steps Next steps\n"
+},
+{
+	"uri": "//localhost:1313/2_elasticity/26_cdf_portals.html",
+	"title": "Cloud Data Fabric portals",
+	"tags": [],
+	"description": "",
+	"content": "Scale Anywhere with Cloud Data Fabric portals Section1 Section1\nKey Takeaways By the end of this module, you will:\nTakeaways Topics Covered Covered Covered Next Steps Next steps\n"
+},
+{
+	"uri": "//localhost:1313/categories.html",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "//localhost:1313/tags.html",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
