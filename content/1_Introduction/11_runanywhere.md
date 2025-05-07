@@ -22,13 +22,13 @@ Qumulo’s RunAnywhere architecture allows the file data platform to run consist
 ## **Key Takeaways**  
 By the end of this module, you will:  
 
-- Understand how Qumulo's RunAnywhere architecture supports consistent workflows across environments.
-- Learn how Qumulo enables rapid adoption of hardware innovation, avoiding traditional storage vendor delays.
-- Grasp how Edge deployments extend cloud workflows, such as catching data from sequencers or real-time inputs.
-- See how Qumulo acts as a scale-out storage gateway, delivering more than traditional S3 gateways or cloud-native gateways.
-- Recognize how RunAnywhere delivers top-to-bottom support on validated appliances, reducing finger-pointing.
-- Recognize the business value of deploying Qumulo at the edge while maintaining centralized control in the cloud.
-- Be able to explain how RunAnywhere reduces complexity, cost, and vendor lock-in while increasing agility for data-centric workflows.
+- Understand how Qumulo's **RunAnywhere architecture** supports consistent workflows across environments.
+- Learn how Qumulo enables **rapid adoption of hardware innovation,** avoiding traditional storage vendor delays.
+- Grasp how **Edge deployments extend cloud workflows,** such as catching data from sequencers or real-time inputs.
+- See how Qumulo acts as a **scale-out storage gateway,** delivering more than traditional S3 gateways or cloud-native gateways.
+- Recognize how RunAnywhere delivers **top-to-bottom support** on validated appliances, reducing finger-pointing.
+- Recognize the business value of **deploying Qumulo at the edge** while maintaining centralized control in the cloud.
+- Be able to explain how **RunAnywhere reduces complexity, cost, and vendor lock-in** while increasing agility for data-centric workflows.
 
 ---
 
