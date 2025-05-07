@@ -44,7 +44,7 @@ By the end of this module, you will:
 - Cost and operational advantages of the RunAnywhere approach
 - Qumulo’s support for major platforms (AWS, Azure, GCP, custom edge hardware)
 - Hardware flexibility and validated SKUs
-- 
+
 ### **Next Steps**  
 - Live Demo or Hands-On Lab
   - Schedule a guided demo or lab environment to explore how Qumulo operates across edge and cloud.
