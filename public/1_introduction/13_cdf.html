@@ -12,18 +12,18 @@
     <title>Cloud Data Fabric Introduction :: English</title>
 
     
-    <link href="/css/nucleus.css?1744847302" rel="stylesheet">
-    <link href="/css/fontawesome-all.min.css?1744847302" rel="stylesheet">
-    <link href="/css/hybrid.css?1744847302" rel="stylesheet">
-    <link href="/css/featherlight.min.css?1744847302" rel="stylesheet">
-    <link href="/css/perfect-scrollbar.min.css?1744847302" rel="stylesheet">
-    <link href="/css/auto-complete.css?1744847302" rel="stylesheet">
-    <link href="/css/atom-one-dark-reasonable.css?1744847302" rel="stylesheet">
-    <link href="/css/theme.css?1744847302" rel="stylesheet">
-    <link href="/css/tabs.css?1744847302" rel="stylesheet">
-    <link href="/css/hugo-theme.css?1744847302" rel="stylesheet">
+    <link href="/css/nucleus.css?1747008810" rel="stylesheet">
+    <link href="/css/fontawesome-all.min.css?1747008810" rel="stylesheet">
+    <link href="/css/hybrid.css?1747008810" rel="stylesheet">
+    <link href="/css/featherlight.min.css?1747008810" rel="stylesheet">
+    <link href="/css/perfect-scrollbar.min.css?1747008810" rel="stylesheet">
+    <link href="/css/auto-complete.css?1747008810" rel="stylesheet">
+    <link href="/css/atom-one-dark-reasonable.css?1747008810" rel="stylesheet">
+    <link href="/css/theme.css?1747008810" rel="stylesheet">
+    <link href="/css/tabs.css?1747008810" rel="stylesheet">
+    <link href="/css/hugo-theme.css?1747008810" rel="stylesheet">
     
-    <link href="/css/theme-mine.css?1744847302" rel="stylesheet">
+    <link href="/css/theme-mine.css?1747008810" rel="stylesheet">
     
     
 
@@ -55,14 +55,14 @@
     <span data-search-clear=""><i class="fas fa-times"></i></span>
 </div>
 
-<script type="text/javascript" src="/js/lunr.min.js?1744847302"></script>
-<script type="text/javascript" src="/js/auto-complete.js?1744847302"></script>
+<script type="text/javascript" src="/js/lunr.min.js?1747008810"></script>
+<script type="text/javascript" src="/js/auto-complete.js?1747008810"></script>
 <script type="text/javascript">
     
         var baseurl = "\/\/localhost:1313\/";
     
 </script>
-<script type="text/javascript" src="/js/search.js?1744847302"></script>
+<script type="text/javascript" src="/js/search.js?1747008810"></script>
 
     
   </div>
@@ -637,14 +637,9 @@
 <li><strong>Block-Level Changes</strong>: Only modified blocks are synchronized, not entire files</li>
 </ol>
 <p><img src="../images/cdf-caching.png" alt="Data Synchronization Process"></p>
-<h3 id="neuralcache-intelligence">NeuralCache Intelligence</h3>
-<p>NeuralCache is a predictive caching engine that:</p>
-<ul>
-<li>Monitors data access patterns over time</li>
-<li>Anticipates future data requests based on learned patterns</li>
-<li>Proactively prefetches data into local cache before it&rsquo;s requested</li>
-<li>Features a heat-scoring system that prioritizes frequently accessed data</li>
-</ul>
+<h3 id="neuralcache-intelligence-in-the-cdf-portal-relationship">NeuralCache Intelligence in the CDF Portal Relationship</h3>
+<p>Within Qumulo Cloud Data Fabric (CDF), NeuralCache is the predictive caching engine that optimizes data access across portal-connected sites. When a directory is shared from a hub to one or more spokes via a CDF portal, NeuralCache continuously analyzes data access patterns on each spoke. By learning which files and blocks are most frequently or recently accessed, NeuralCache anticipates future data requests and proactively prefetches relevant data from the hub into the spoke’s local cache before users request it.</p>
+<p>This predictive approach ensures that up to 90% of global read requests on spoke endpoints are served directly from local cache, significantly reducing WAN traffic and latency. NeuralCache’s heat-scoring system dynamically prioritizes and retains the most active data in cache, while evicting less frequently used blocks, further enhancing performance and scalability for distributed teams. As a result, users experience local-like performance when accessing remote data through CDF portals, enabling real-time collaboration and efficient workflows across geographically dispersed environments.</p>
 <p><img src="../images/cdf-neuralcache.png" alt="NeuralCache Detail"></p>
 <h2 id="3-cdf-common-use-cases">3. CDF Common Use Cases</h2>
 <p><img src="../images/cdf-usecase.png" alt="Common Use Cases"></p>
@@ -674,30 +669,18 @@
 </ul>
 <h2 id="4-key-takeaways">4. Key Takeaways</h2>
 <ul>
-<li><strong>Not Replication</strong>: CDF doesn&rsquo;t replicate entire datasets; it synchronizes metadata globally and transfers data blocks only when needed</li>
-<li><strong>Strict Consistency</strong>: All endpoints maintain the same view of data with guaranteed consistency</li>
-<li><strong>Intelligent Caching</strong>: 90% of global read requests are served from cache, minimizing WAN traffic</li>
-<li><strong>Performance Optimization</strong>: NeuralCache anticipates data needs, reducing latency significantly</li>
-<li><strong>Unified Management</strong>: A single platform for managing data across any location</li>
+<li><strong>Global Data Accessibility:</strong> Qumulo Cloud Data Fabric (CDF) provides a single, globally-consistent file system that spans data center, cloud, and edge, enabling real-time data access and collaboration across geographically distributed teams.</li>
+<li><strong>Not Traditional Replication:</strong> Unlike legacy solutions, CDF does not replicate entire datasets. Instead, it synchronizes metadata globally and transfers only the required data blocks on demand, minimizing WAN traffic and eliminating version conflicts.</li>
+<li><strong>Strict Consistency:</strong> All endpoints maintain a unified, up-to-date view of data, with guaranteed consistency and immediate metadata synchronization across locations.</li>
+<li><strong>Intelligent Caching and NeuralCache:</strong> Advanced caching algorithms-including NeuralCache-anticipate data needs, serving 90% of global read requests from cache to reduce latency and optimize performance for distributed workloads.</li>
+<li><strong>Unified Management and Analytics:</strong> Manage and monitor all unstructured data through a single platform, with advanced analytics and real-time visibility into data usage, performance, and activity at every endpoint.</li>
+<li><strong>Flexible Architecture and Use Cases:</strong> The hub-spoke architecture with data portals supports directory-level sharing and bidirectional synchronization, making CDF ideal for use cases such as real-time collaboration, cloud bursting for AI/ML, and edge data ingest-while differentiating itself from traditional replication-based solutions.</li>
+<li><strong>Operational Efficiency and Cost Savings:</strong> By only moving data when it is needed and optimizing resource utilization, CDF reduces infrastructure costs, improves scalability, and accelerates business cycles.</li>
 </ul>
-<h2 id="5-topics-covered">5. Topics Covered</h2>
-<p>In this overview, we&rsquo;ve explored:</p>
-<ul>
-<li>The fundamental concept and benefits of Cloud Data Fabric</li>
-<li>The hub-spoke architecture and portal configuration</li>
-<li>How data synchronization works at the metadata and block levels</li>
-<li>The intelligent caching system with NeuralCache</li>
-<li>Common use cases where CDF provides unique advantages</li>
-<li>What differentiates CDF from traditional replication solutions</li>
-</ul>
-<h2 id="6-next-steps">6. Next Steps</h2>
+<h2 id="5-next-steps">5. Next Steps</h2>
 <ul>
 <li>Review Workshop Prerequisites</li>
 <li>Set Up Your AWS Environment</li>
-<li>Deploy Qumulo Clusters</li>
-<li>Configure Your First Data Portal</li>
-<li>Test Cross-Region Data Access</li>
-<li>Measure Performance Differences</li>
 </ul>
 
 
@@ -1034,19 +1017,19 @@
     <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
       <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
     </div>
-    <script src="/js/clipboard.min.js?1744847302"></script>
-    <script src="/js/perfect-scrollbar.min.js?1744847302"></script>
-    <script src="/js/perfect-scrollbar.jquery.min.js?1744847302"></script>
-    <script src="/js/jquery.sticky.js?1744847302"></script>
-    <script src="/js/featherlight.min.js?1744847302"></script>
-    <script src="/js/highlight.pack.js?1744847302"></script>
+    <script src="/js/clipboard.min.js?1747008810"></script>
+    <script src="/js/perfect-scrollbar.min.js?1747008810"></script>
+    <script src="/js/perfect-scrollbar.jquery.min.js?1747008810"></script>
+    <script src="/js/jquery.sticky.js?1747008810"></script>
+    <script src="/js/featherlight.min.js?1747008810"></script>
+    <script src="/js/highlight.pack.js?1747008810"></script>
     <script>hljs.initHighlightingOnLoad();</script>
-    <script src="/js/modernizr.custom-3.6.0.js?1744847302"></script>
-    <script src="/js/learn.js?1744847302"></script>
-    <script src="/js/hugo-learn.js?1744847302"></script>
+    <script src="/js/modernizr.custom-3.6.0.js?1747008810"></script>
+    <script src="/js/learn.js?1747008810"></script>
+    <script src="/js/hugo-learn.js?1747008810"></script>
     
         
-            <script src="/mermaid/mermaid.js?1744847302"></script>
+            <script src="/mermaid/mermaid.js?1747008810"></script>
         
         <script>
             mermaid.initialize({ startOnLoad: true });

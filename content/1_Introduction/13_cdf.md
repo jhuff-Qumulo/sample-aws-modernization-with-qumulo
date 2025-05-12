@@ -42,12 +42,11 @@ CDF is built on a hub-and-spoke architecture where:
 
 ![Data Synchronization Process](../images/cdf-caching.png)
 
-### NeuralCache Intelligence
-NeuralCache is a predictive caching engine that:
-* Monitors data access patterns over time
-* Anticipates future data requests based on learned patterns
-* Proactively prefetches data into local cache before it's requested
-* Features a heat-scoring system that prioritizes frequently accessed data
+### NeuralCache Intelligence in the CDF Portal Relationship
+
+Within Qumulo Cloud Data Fabric (CDF), NeuralCache is the predictive caching engine that optimizes data access across portal-connected sites. When a directory is shared from a hub to one or more spokes via a CDF portal, NeuralCache continuously analyzes data access patterns on each spoke. By learning which files and blocks are most frequently or recently accessed, NeuralCache anticipates future data requests and proactively prefetches relevant data from the hub into the spoke’s local cache before users request it.
+
+This predictive approach ensures that up to 90% of global read requests on spoke endpoints are served directly from local cache, significantly reducing WAN traffic and latency. NeuralCache’s heat-scoring system dynamically prioritizes and retains the most active data in cache, while evicting less frequently used blocks, further enhancing performance and scalability for distributed teams. As a result, users experience local-like performance when accessing remote data through CDF portals, enabling real-time collaboration and efficient workflows across geographically dispersed environments.
 
 ![NeuralCache Detail](../images/cdf-neuralcache.png)
 
@@ -77,23 +76,15 @@ NeuralCache is a predictive caching engine that:
 
 ## 4. Key Takeaways
 
-* **Not Replication**: CDF doesn't replicate entire datasets; it synchronizes metadata globally and transfers data blocks only when needed
-* **Strict Consistency**: All endpoints maintain the same view of data with guaranteed consistency
-* **Intelligent Caching**: 90% of global read requests are served from cache, minimizing WAN traffic
-* **Performance Optimization**: NeuralCache anticipates data needs, reducing latency significantly
-* **Unified Management**: A single platform for managing data across any location
+* **Global Data Accessibility:** Qumulo Cloud Data Fabric (CDF) provides a single, globally-consistent file system that spans data center, cloud, and edge, enabling real-time data access and collaboration across geographically distributed teams.
+* **Not Traditional Replication:** Unlike legacy solutions, CDF does not replicate entire datasets. Instead, it synchronizes metadata globally and transfers only the required data blocks on demand, minimizing WAN traffic and eliminating version conflicts.
+* **Strict Consistency:** All endpoints maintain a unified, up-to-date view of data, with guaranteed consistency and immediate metadata synchronization across locations.
+* **Intelligent Caching and NeuralCache:** Advanced caching algorithms-including NeuralCache-anticipate data needs, serving 90% of global read requests from cache to reduce latency and optimize performance for distributed workloads.
+* **Unified Management and Analytics:** Manage and monitor all unstructured data through a single platform, with advanced analytics and real-time visibility into data usage, performance, and activity at every endpoint.
+* **Flexible Architecture and Use Cases:** The hub-spoke architecture with data portals supports directory-level sharing and bidirectional synchronization, making CDF ideal for use cases such as real-time collaboration, cloud bursting for AI/ML, and edge data ingest-while differentiating itself from traditional replication-based solutions.
+* **Operational Efficiency and Cost Savings:** By only moving data when it is needed and optimizing resource utilization, CDF reduces infrastructure costs, improves scalability, and accelerates business cycles.
 
-## 5. Topics Covered
-
-In this overview, we've explored:
-* The fundamental concept and benefits of Cloud Data Fabric
-* The hub-spoke architecture and portal configuration
-* How data synchronization works at the metadata and block levels
-* The intelligent caching system with NeuralCache
-* Common use cases where CDF provides unique advantages
-* What differentiates CDF from traditional replication solutions
-
-## 6. Next Steps
+## 5. Next Steps
 
 * Review Workshop Prerequisites
 * Set Up Your AWS Environment
