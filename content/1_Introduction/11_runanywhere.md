@@ -10,46 +10,52 @@ weight: 1
 # **Qumulo RunAnywhere Architecture**
 
 
-## **Section 1: Introduction to Qumulo RunAnywhere**  
+## **Introduction**  
 
 Qumulo’s RunAnywhere architecture allows the file data platform to run consistently across cloud, edge, and on-prem environments. This flexibility is central to enabling hybrid workflows — giving organizations the power to process, move, and manage data wherever it makes the most business sense.
 
-  🗣️ "RunAnywhere is mostly around how this helps extend and connect hybrid workloads to make it easier to drive in the cloud — from the flexibility of the hardware that we provide."
+  🗣️ Run the same high-performance, multi-protocol (NFS/SMB/S3) data platform on the hardware and clouds you choose—manage it as one system—so data is always close to users and apps, without vendor lock-in.
+
+<img src=/Users/jhuff/Documents/AWS-Qumulo-Repo/jhuff/sample-aws-modernization-with-qumulo/static/images/RunAnyWhere-intro.png>
+
+
+
+## **Buiness Outcomes**  
+ **Freedom of choice:** Deploy on your preferred servers and any major cloud. Avoid lock-in, reuse existing investments, and negotiate better pricing.
+
+**Global access, local speed:** Project data to edge sites/studios/branches while keeping authoritative copies centralized—users get low-latency access without making (and managing) full copies everywhere.
+
+**Cloud-smart economics:** Scale performance and capacity independently; burst in cloud when needed; keep cold data cheap while hot working sets stay fast.
+
+**Operational simplicity:** One platform, one toolset, one policy framework (auth, quotas, snapshots, replication) everywhere—reduces admin overhead and failure modes.
+
+**No app changes:** Standard file/object interfaces mean existing workflows and permissions just work across on-prem and cloud.
+
+**Resilience by design:** Snapshots, replication, and hub-and-spoke “portals” support HA/DR patterns without complex re-architecture.
+
+**Why this matters?**
+
+- Multi-site content creation/collaboration (studios, labs, branches)
+
+- Hybrid cloud analytics/AI pipelines that need the same data in multiple places
+
+- Migrations off proprietary appliances to commodity servers + cloud
+
+**Proof points to measure in a POC**
+
+- Time to deploy and share data (minutes/hours, not weeks)
+
+- Latency/throughput at edge vs. legacy copy-everywhere models
+
+- Admin hours saved (single policy & monitoring plane)
+
+- \$/TB and \$/GB-served when tiering/bursting to cloud
+
 
 
 ---
-
-## **Key Takeaways**  
-By the end of this module, you will:  
-
-- Understand how Qumulo's **RunAnywhere architecture** supports consistent workflows across environments.
-- Learn how Qumulo enables **rapid adoption of hardware innovation,** avoiding traditional storage vendor delays.
-- Grasp how **Edge deployments extend cloud workflows,** such as catching data from sequencers or real-time inputs.
-- See how Qumulo acts as a **scale-out storage gateway,** delivering more than traditional S3 gateways or cloud-native gateways.
-- Recognize how RunAnywhere delivers **top-to-bottom support** on validated appliances, reducing finger-pointing.
-- Recognize the business value of **deploying Qumulo at the edge** while maintaining centralized control in the cloud.
-- Be able to explain how **RunAnywhere reduces complexity, cost, and vendor lock-in** while increasing agility for data-centric workflows.
-
----
-
-## **Topics Covered**  
-### **Covered**  
-- What is Qumulo RunAnywhere?
-- Cloud and Edge synergy: Real-world applications
-- The importance of architectural consistency across edge, core, and cloud
-- Benefits of edge deployments backed by cloud-native scalability
-- Use cases: Media production, Genomics research, Remote offices, and IoT
-- Deployment models: cloud-first, edge-first, hybrid burst
-- API-driven automation and integration across locations
-- Cost and operational advantages of the RunAnywhere approach
-- Qumulo’s support for major platforms (AWS, Azure, GCP, custom edge hardware)
-- Hardware flexibility and validated SKUs
 
 ### **Next Steps**  
-- Live Demo or Hands-On Lab
-  - Schedule a guided demo or lab environment to explore how Qumulo operates across edge and cloud.
-  - Practice deploying Qumulo in AWS or Azure and replicating data between locations.
-    
-- APIs and Automation Exploration
 
-- Enroll in Qumulo technical training or certification if available through your organization or partner portal.
+- Dive deeper in to Cloud Native Qumulo (CNQ) and understand the principals of Run Anywhere in action as referred to the use case in the cloud
+- Understand how Qumulo's Cloud Data Fabric (CDF) leverages Run Anywhere and CNQ to help customers with their challenges around data access, mobility, and management.
